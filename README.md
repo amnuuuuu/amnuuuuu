@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amnuuuuu
+- 👋 Hi, I’m @aman
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning cyber security
 - 💞️ I’m looking to collaborate on coding
